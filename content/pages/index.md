@@ -14,7 +14,6 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     projects_number: 6
-    view_all_url: portfolio
 seo:
   title: Portfolio Laurence Verheijen
   description: Laurence zoekt een nieuwe job
