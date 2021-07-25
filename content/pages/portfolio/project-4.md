@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Poëtische QR-tocht
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
