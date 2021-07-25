@@ -26,7 +26,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "title": "Lau"
     },
     "footer": {
         "content": "&copy; Laurence Verheijen",
