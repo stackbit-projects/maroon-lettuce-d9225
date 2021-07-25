@@ -1,5 +1,5 @@
 ---
-title: Data dashboard
+title: Data dashboards
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
