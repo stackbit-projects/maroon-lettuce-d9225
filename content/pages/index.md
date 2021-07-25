@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Laurence Verheijen's Portfolio.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Ontdek hier de projecten die ik in de afgelopen jaren realiseerde. 
     actions: []
   - section_id: latest-projects
     type: section_portfolio
