@@ -20,7 +20,7 @@ sections:
     view_all_url: portfolio
 seo:
   title: Portfolio Laurence Verheijen
-  description: The preview of the Exto theme
+  description: Laurence Verheijen zoekt een nieuwe job
   extra:
     - name: 'og:type'
       value: website
