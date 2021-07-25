@@ -20,7 +20,7 @@ sections:
     view_all_url: portfolio
 seo:
   title: Portfolio Laurence Verheijen
-  description: Laurence Verheijen zoekt een nieuwe job
+  description: Laurence zoekt een nieuwe job
   extra:
     - name: 'og:type'
       value: website
