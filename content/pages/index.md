@@ -7,8 +7,8 @@ sections:
     title: Laurence Verheijen's Portfolio.
     content: >
       Ontdek hier enkele projecten waar ik trots op ben. Ze werden gerealiseerd
-      in de laatste drie jaar voor uiteenlopende opdrachtgevers en dus ook met
-      verschillende doeleinden. 
+      in de laatste drie jaar voor uiteenlopende opdrachtgevers, en dus ook met
+      verschillende doeleinden.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
