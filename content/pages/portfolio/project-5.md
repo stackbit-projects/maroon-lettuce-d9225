@@ -1,5 +1,5 @@
 ---
-title: Kennisfilm
+title: Educat
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
