@@ -15,7 +15,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    projects_number: 6
+    projects_number: 8
     view_all_label: View All
     view_all_url: portfolio
 seo:
