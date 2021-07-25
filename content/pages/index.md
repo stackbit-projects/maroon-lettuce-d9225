@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Laurence Verheijen's Portfolio.
-    content: |
-      Ontdek hier de projecten die ik in de afgelopen jaren realiseerde. 
+    content: >
+      Ontdek hier enkele projecten waar ik trots op ben! Ze werden gerealiseerd
+      in de laatste drie jaar. 
     actions: []
   - section_id: latest-projects
     type: section_portfolio
