@@ -3,22 +3,6 @@
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
-    "header": {
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            }
-        ],
-        "title": "Laurence Verheijen"
-    },
     "footer": {
         "content": "&copy; Laurence Verheijen",
         "has_social": true,
