@@ -2,7 +2,7 @@
     "title": "Portfolio Laurence Verheijen",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "yellow",
     "header": {
         "has_nav": true,
         "nav_links": [
