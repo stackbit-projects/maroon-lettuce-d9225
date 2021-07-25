@@ -15,11 +15,6 @@
                 "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
             }
         ],
         "title": "Laurence Verheijen"
