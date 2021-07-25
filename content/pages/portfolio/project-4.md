@@ -1,5 +1,5 @@
 ---
-title: Poëtische QR-tocht
+title: Voorleesweek
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: /images/voorleesweek.jpg
