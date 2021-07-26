@@ -1,6 +1,6 @@
 ---
 title: Poëtische QR-tocht
-subtitle: 'Creatief met '
+subtitle: 'Creatief oplossingen zoeken '
 date: '2019-04-08'
 thumb_image: /images/QR-wandeling.png
 thumb_image_alt: A yellow retro telephone on a yellow background
