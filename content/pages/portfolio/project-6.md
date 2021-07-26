@@ -1,6 +1,5 @@
 ---
 title: Prey
-subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: /images/prey.png
 thumb_image_alt: A handheld game console on a yellow background
