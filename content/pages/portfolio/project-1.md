@@ -8,7 +8,9 @@ image: images/1.jpg
 image_alt: Fotografie Laurence Verheijen
 seo:
   title: Fotografie Laurence
-  description: This is the project 1 description
+  description: >-
+    Drie jaar geleden zette ik de stap naar freelance fotograaf, en dat heb ik
+    nog niet betreurd!
   extra:
     - name: 'og:type'
       value: website
