@@ -1,6 +1,6 @@
 ---
 title: Educatieve animatiefilm
-subtitle: Optional Project Subtitle
+subtitle: 'Creatie van '
 date: '2019-01-05'
 thumb_image: /images/film2.png
 thumb_image_alt: A white gamepad on a green background
