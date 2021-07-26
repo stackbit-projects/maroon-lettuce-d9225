@@ -7,7 +7,7 @@ thumb_image_alt: Fotografie Laurence Verheijen
 image: images/1.jpg
 image_alt: Fotografie Laurence Verheijen
 seo:
-  title: Fotografie Laurence
+  title: Project Title 1
   description: This is the project 1 description
   extra:
     - name: 'og:type'
