@@ -16,5 +16,6 @@
             }
         ]
     },
-    "domain": "portfolio.laurenceverheijen.be"
+    "domain": "portfolio.laurenceverheijen.be",
+    "favicon": "/images/favicon.png"
 }
