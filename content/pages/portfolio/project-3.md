@@ -2,7 +2,7 @@
 title: Poëtische QR-tocht
 subtitle: Creatieve zoektocht naar gedichten
 date: '2019-04-08'
-thumb_image: /images/QR-wandeling.png
+thumb_image: /images/qr code klein.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: /images/oceanic-goat.png
 image_alt: QR code opdracht poëzie wandeling
