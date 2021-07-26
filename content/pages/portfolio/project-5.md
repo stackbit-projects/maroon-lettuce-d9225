@@ -1,6 +1,6 @@
 ---
 title: Educatieve animatiefilm
-subtitle: 'Creatie van '
+subtitle: Vat een boek samen in één film
 date: '2019-01-05'
 thumb_image: /images/film2.png
 thumb_image_alt: A white gamepad on a green background
