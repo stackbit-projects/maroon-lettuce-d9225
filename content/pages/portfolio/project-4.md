@@ -1,6 +1,6 @@
 ---
 title: Voorleesweek
-subtitle: Coronaproof voorlezen
+subtitle: Filmproject coronaproof voorlezen
 date: '2019-02-26'
 thumb_image: /images/voorleesweek.jpg
 thumb_image_alt: A table tennis racket on a pink background
