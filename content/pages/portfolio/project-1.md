@@ -34,11 +34,14 @@ seo:
       relativeUrl: true
 layout: project
 ---
+Het 'project' dat me het nauwst aan het hart ligt, is uiteraard mijn bijberoep als fotograaf. Het begon 10 jaar geleden met het maken van fotos voor vriendinnen, maar groeide uit tot een heus bedrijfje. Ik kende vele ups en downs, ben een tijd minder gaan fotograferen door een drukke agenda tijdens mijn hogere opleiding, maar sinds twee jaar doe ik dit officieel in bijberoep. 
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Ik ben dan ook erg trots op het werk dat ik verricht en hoe ik dit aanpak. Ik maak bewust niet té veel reclame (zo maak ik geen gebruik van betaalde advertenties), print offline online website, toegankelijk aanspreekbaar vertrouwensband. 
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+<https://www.facebook.com/fotografielaurenceverheijen> updaten van sociale media, klantenwerving, geen gebruik van ads commercieel te veel werk, vertrouwensrelatie, trouwe klanten, spelen met bereik 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Maken van website, seo, aanvraag via contactformulier, cookies. Kijken naar alternatieven om verkeer in de gaten te houden. Passie beroep.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+> "Laurence is al jaren onze vaste fotograaf. Fijn contact, snelle levering en ze maakt prachtige foto's."
+
+Ervaring met klantenwerving, boekhouding, alle zaken die erbij komen kijken om een bedrijf in de lucht te houden. Kijk zeker naar mijn website www.laurenceverheijen.be 
