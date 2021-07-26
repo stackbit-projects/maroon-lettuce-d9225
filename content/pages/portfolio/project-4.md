@@ -5,7 +5,7 @@ date: '2019-02-26'
 thumb_image: /images/voorleesweek.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image: /images/voorleesweek behind the scenes.jpg
-image_alt: A table tennis racket on a pink background
+image_alt: Opnames voorleesweek
 seo:
   title: Project Title 4
   description: This is the project 4 description
