@@ -5,7 +5,7 @@ date: '2019-04-08'
 thumb_image: /images/QR-wandeling.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: /images/oceanic-goat.png
-image_alt: A yellow retro telephone on a yellow background
+image_alt: QR code opdracht poëzie wandeling
 seo:
   title: Project Title 3
   description: This is the project 3 description
