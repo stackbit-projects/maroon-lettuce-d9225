@@ -19,7 +19,9 @@ seo:
       value: Fotografie Laurence
       keyName: property
     - name: 'og:description'
-      value: This is the project 1 description
+      value: >-
+        Drie jaar geleden zette ik de stap naar freelance fotograaf, en dat heb
+        ik nog niet betreurd!
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
