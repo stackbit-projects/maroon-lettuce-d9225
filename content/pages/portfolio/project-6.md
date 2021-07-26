@@ -1,5 +1,5 @@
 ---
-title: Afstudeerfilm master in animatie
+title: Prey
 date: '2018-12-18'
 thumb_image: /images/prey.png
 thumb_image_alt: A handheld game console on a yellow background
