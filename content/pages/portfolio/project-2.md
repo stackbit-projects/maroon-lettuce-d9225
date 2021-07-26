@@ -1,6 +1,6 @@
 ---
 title: Duik mee in data
-subtitle: Toegankelijk maken van data met BI tools
+subtitle: Toegankelijk maken van data met BI tools.
 date: '2019-04-30'
 thumb_image: /images/ultra-primrose.png
 thumb_image_alt: Dashboard Tableau
