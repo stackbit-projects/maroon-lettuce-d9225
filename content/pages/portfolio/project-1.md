@@ -5,7 +5,7 @@ date: '2019-05-10'
 thumb_image: /images/fotografie.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
-image_alt: 'White, black, and red shoe sole'
+image_alt: Fotografie Laurence Verheijen
 seo:
   title: Project Title 1
   description: This is the project 1 description
