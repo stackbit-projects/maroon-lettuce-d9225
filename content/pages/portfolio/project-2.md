@@ -34,7 +34,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Data VAF, embedden dashboards moeilijk leuk excels afgestapt toegankelijk makkelijk te vernieuwen, data waar niks mee gedaan werd inzicht in werking
+Data VAF, embedden dashboards moeilijk leuk excels afgestapt toegankelijk makkelijk te vernieuwen, data waar niks mee gedaan werd inzicht in werking https://www.vaf.be/kennisopbouw
 
 > "Every great design begins with an even better story." - Lorinda Mamo
-
