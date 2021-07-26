@@ -1,6 +1,6 @@
 ---
 title: Poëtische QR-tocht
-subtitle: 'Creatief oplossingen zoeken '
+subtitle: Creatief oplossingen zoeken met een strakke deadline
 date: '2019-04-08'
 thumb_image: /images/QR-wandeling.png
 thumb_image_alt: A yellow retro telephone on a yellow background
