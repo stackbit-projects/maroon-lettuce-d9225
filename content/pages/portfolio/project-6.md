@@ -4,7 +4,7 @@ date: '2018-12-18'
 thumb_image: /images/prey.png
 thumb_image_alt: Kortfilm Prey
 image: /images/makingoffprey.png
-image_alt: A handheld game console on a yellow background
+image_alt: Making of Prey
 seo:
   title: Project Title 6
   description: This is the project 6 description
