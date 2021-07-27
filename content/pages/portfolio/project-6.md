@@ -3,7 +3,7 @@ title: Kortfilm Prey
 date: '2018-12-18'
 thumb_image: /images/prey3.png
 thumb_image_alt: Kortfilm Prey
-image: /images/parallel-plankton.png
+image: /images/prey.jpg
 image_alt: Making of Prey
 seo:
   title: Project Title 6
