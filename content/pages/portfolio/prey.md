@@ -34,9 +34,16 @@ seo:
 layout: project
 subtitle: Afstudeerfilm die de wereld rond reisde
 ---
-getoond op vele internationale festivals prijzen, preojct tot goed einde brengen, netwerk uitbreiden, van begin tot eind incl promotiemateriaal
+Het enige project dat al wat ouder is, maar wat ik toch heel graag hier beschrijf is mijn afstudeerfilm. In je masterjaar krijg je volledige creatieve vrijheid. Het klinkt fantastisch, maar voor velen is het toch eerder een vloek dan een zegen. Je moet immers niet alleen iets te vertellen hebben, je moet het ook nog eens vorm kunnen geven en tot een goed einde kunnen brengen. Het is niet iedereen gegeven. Wat mij kenmerkt is dat ik een kritische blik heb op de wereld en de maatschappij, dat 'iets te vertellen' zat wel goed. Verder kan ik ook goed gestructureerd werken en dit is wel nodig omdat het zo'n zwaar en lang traject is dat op een gegeven moment maar niet vooruit lijkt te gaan. Ik vond het belangrijk om zicht te blijven hebben op wat ik aan het doen was, het hielp me om gemotiveerd te blijven. Ook al ben ik een doorzetter, een duidelijk doel en afgebakend plan hebben ervoor gezorgd dat de film klaar was voor de deadline. 
+
+
+
+https://vimeo.com/139440722
 
 > "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated." - Paul Rand,
+
+
+Uiteindelijk maakte ik de film omdat ik iets te vertellen had, het was dan ook de bedoeling om de film te tonen aan publiek. Ik durf zelf te stellen dat zonder publiek, een film geen film is. Ik ben dan ook heel blij dat Prey geselecteerd werd voor verschillende festivals in binnen- en buitenland.  Voor zover mogelijk was ik ook aanwezig bij de screening en dit heeft me prachtige herinneringen en veel vrienden opgeleverd.
 
 \*WINNER\* Best Animation Short - Kisakes Short Film Festival 2016 (Turkey)
 Official selection International Short Film Festival Leuven 2015 (Belgium)
@@ -55,4 +62,3 @@ Official selection Animex Awards 2017 (United Kingdom)
 Official selection San Giò Verona Video Festival 2017 (Italy)
 Screening in out of competition category @ Anima 2016 (Belgium)
 Screening in short film market @ Cannes Festival 2017 (France)
-
