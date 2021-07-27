@@ -7,7 +7,7 @@ thumb_image_alt: Voorleesweek film
 image: /images/marvelous-chestnut.jpg
 image_alt: Opnames voorleesweek
 seo:
-  title: Project Title 4
+  title: Voorleesweek
   description: This is the project 4 description
   extra:
     - name: 'og:type'
