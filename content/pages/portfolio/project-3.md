@@ -2,7 +2,7 @@
 title: Poëtische QR-tocht
 subtitle: Creatieve zoektocht naar gedichten
 date: '2019-04-08'
-thumb_image: /images/qr code klein2.png
+thumb_image: /images/qr code klein3.png
 thumb_image_alt: QR-tocht poëzie
 image: /images/qrwandeling.png
 image_alt: QR code opdracht poëzie wandeling
