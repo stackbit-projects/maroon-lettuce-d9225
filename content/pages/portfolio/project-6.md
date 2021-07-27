@@ -2,7 +2,7 @@
 title: Kortfilm Prey
 date: '2018-12-18'
 thumb_image: /images/prey.png
-thumb_image_alt: A handheld game console on a yellow background
+thumb_image_alt: Kortfilm Prey
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 seo:
