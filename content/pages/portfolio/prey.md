@@ -38,8 +38,21 @@ getoond op vele internationale festivals prijzen, preojct tot goed einde brengen
 
 > "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated." - Paul Rand,
 
-Nisl purus in mollis nunc sed id semper. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Etiam erat velit scelerisque in dictum non consectetur. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Aliquam id diam maecenas ultricies mi eget mauris pharetra. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Elit at imperdiet dui accumsan. Senectus et netus et malesuada fames ac turpis. Justo nec ultrices dui sapien eget mi proin sed libero. Aliquet eget sit amet tellus cras adipiscing enim eu turpis. Nisl purus in mollis nunc sed id. Elit duis tristique sollicitudin nibh sit. Duis ultricies lacus sed turpis. Porttitor eget dolor morbi non. Scelerisque eu ultrices vitae auctor eu augue ut. At urna condimentum mattis pellentesque id. Massa eget egestas purus viverra accumsan. Fermentum dui faucibus in ornare quam. Pharetra vel turpis nunc eget lorem.
+\*WINNER\* Best Animation Short - Kisakes Short Film Festival 2016 (Turkey)
+Official selection International Short Film Festival Leuven 2015 (Belgium)
+Official selection 19. International Film Festival Zoom - Zblizenia 2016 (Poland)
+Official selection 13th Węgiel International Short Film Festival 2016 (Poland)
+Official selection Festival Parachute Light Zero Act III 2016 (France)
+Official selection EIDÔLON - Philosophical Film Festival 2016 (France)
+Official selection Filmambiente Film Festival 2016 (Brazil)
+Official selection 4th Annual G2 Green Earth Film Festival 2016 (Italy)
+Official selection 7th edition of Anibar Animation Festival 2016 (Kosovo)
+Official selection 2nd MINIKINO FILM WEEK - 2016 Festival (Indonesia)
+Official selection 23 Edition International Environmental Film Festival 2016 (Spain)
+Official selection International KısaKes Short Film Festival 2016 (Turkey)
+Official Selection Longlist Film Festival Oostende 2016 (Belgium)
+Official selection Animex Awards 2017 (United Kingdom)
+Official selection San Giò Verona Video Festival 2017 (Italy)
+Screening in out of competition category @ Anima 2016 (Belgium)
+Screening in short film market @ Cannes Festival 2017 (France)
 
-Sodales neque sodales ut etiam sit amet nisl. Sodales ut etiam sit amet nisl purus. Nisi vitae suscipit tellus mauris a diam maecenas sed. Egestas purus viverra accumsan in nisl nisi scelerisque. Gravida cum sociis natoque penatibus et magnis dis parturient. In hac habitasse platea dictumst vestibulum. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Tellus integer feugiat scelerisque varius morbi enim nunc. Ultricies mi eget mauris pharetra et ultrices neque ornare. Vitae suscipit tellus mauris a diam. Commodo viverra maecenas accumsan lacus vel. Libero id faucibus nisl tincidunt eget nullam.
-
-Nibh praesent tristique magna sit amet purus gravida. Aenean pharetra magna ac placerat vestibulum lectus mauris. Nulla aliquet enim tortor at auctor. Lobortis elementum nibh tellus molestie. Vitae proin sagittis nisl rhoncus mattis. Velit scelerisque in dictum non consectetur a erat. Elementum curabitur vitae nunc sed. Nisl nisi scelerisque eu ultrices vitae auctor eu. Proin libero nunc consequat interdum varius sit. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Turpis cursus in hac habitasse. Adipiscing elit pellentesque habitant morbi tristique.
