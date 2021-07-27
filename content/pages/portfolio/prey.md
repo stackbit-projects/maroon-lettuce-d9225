@@ -32,7 +32,7 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 layout: project
-subtitle: Afstudeerfilm die de wereld rond reisde
+subtitle: Afstudeerfilm die de wereld rond reisde.
 ---
 Het enige project dat al wat ouder is, maar wat ik toch heel graag hier beschrijf is mijn afstudeerfilm. In je masterjaar krijg je volledige creatieve vrijheid. Het klinkt fantastisch, maar voor velen is het toch eerder een vloek dan een zegen. Je moet immers niet alleen iets te vertellen hebben, je moet het ook nog eens vorm kunnen geven en tot een goed einde kunnen brengen. Het is niet iedereen gegeven. Wat mij kenmerkt is dat ik een kritische blik heb op de wereld en de maatschappij, dat 'iets te vertellen' zat wel goed. Verder kan ik ook goed gestructureerd werken en dit is wel nodig omdat het zo'n zwaar en lang traject is dat op een gegeven moment maar niet vooruit lijkt te gaan. Ik vond het belangrijk om zicht te blijven hebben op wat ik aan het doen was, het hielp me om gemotiveerd te blijven. Ook al ben ik een doorzetter, een duidelijk doel en afgebakend plan hebben ervoor gezorgd dat de film klaar was voor de deadline.
 
