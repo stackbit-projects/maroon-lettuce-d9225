@@ -6,7 +6,7 @@ thumb_image_alt: Kortfilm Prey
 image: /images/prey.jpg
 image_alt: Making of Prey
 seo:
-  title: Project Title 6
+  title: Kortfilm Prey
   description: This is the project 6 description
   extra:
     - name: 'og:type'
