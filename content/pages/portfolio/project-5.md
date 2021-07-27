@@ -3,7 +3,7 @@ title: Educatieve animatiefilm
 subtitle: Vat een wetenschappelijk werk samen in één film
 date: '2019-01-05'
 thumb_image: /images/film2.png
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: Educatieve animatiefilm
 image: images/5.jpg
 image_alt: A white gamepad on a green background
 seo:
