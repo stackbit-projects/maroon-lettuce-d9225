@@ -7,7 +7,7 @@ thumb_image_alt: QR-tocht poëzie
 image: /images/qrwandeling.png
 image_alt: QR code opdracht poëzie wandeling
 seo:
-  title: Project Title 3
+  title: Poëzietocht
   description: This is the project 3 description
   extra:
     - name: 'og:type'
