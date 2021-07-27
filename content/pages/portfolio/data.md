@@ -7,7 +7,7 @@ thumb_image_alt: Dashboard Tableau
 image: /images/afbeelding data.png
 image_alt: Dashboard Tableau
 seo:
-  title: Project Title 2
+  title: Data
   description: This is the project 2 description
   extra:
     - name: 'og:type'
