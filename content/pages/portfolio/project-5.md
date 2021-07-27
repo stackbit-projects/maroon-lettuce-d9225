@@ -4,7 +4,7 @@ subtitle: Vat een wetenschappelijk werk samen in één film
 date: '2019-01-05'
 thumb_image: /images/film2.png
 thumb_image_alt: Educatieve animatiefilm
-image: /images/animatiefilm hilde.jpg
+image: /images/spectacular-sunflower.jpg
 image_alt: Educatieve animatiefilm Work in progress
 seo:
   title: Project Title 5
