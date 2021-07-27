@@ -1,6 +1,6 @@
 ---
 title: Poëtische QR-tocht
-subtitle: Creatieve zoektocht naar gedichten
+subtitle: Creatieve zoektocht naar gedichten.
 date: '2019-04-08'
 thumb_image: /images/energetic-zebra.png
 thumb_image_alt: QR-tocht poëzie
