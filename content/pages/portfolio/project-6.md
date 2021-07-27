@@ -1,7 +1,7 @@
 ---
 title: Kortfilm Prey
 date: '2018-12-18'
-thumb_image: /images/prey2.png
+thumb_image: /images/prey3.png
 thumb_image_alt: Kortfilm Prey
 image: /images/makingoffprey.png
 image_alt: Making of Prey
