@@ -2,7 +2,7 @@
 title: Voorleesweek
 subtitle: Filmproject coronaproof voorlezen
 date: '2019-02-26'
-thumb_image: /images/voorleesweek.jpg
+thumb_image: /images/voorleesweek2.jpg
 thumb_image_alt: Voorleesweek film
 image: /images/voorleesweek behind the scenes.jpg
 image_alt: Opnames voorleesweek
