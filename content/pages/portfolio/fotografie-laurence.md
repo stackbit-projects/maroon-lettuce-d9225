@@ -1,6 +1,6 @@
 ---
 title: Fotografie Laurence
-subtitle: Freelance fotograaf in bijberoep
+subtitle: Freelance fotograaf in bijberoep.
 date: '2019-05-10'
 thumb_image: /images/IMG_1776.jpg
 thumb_image_alt: Fotografie Laurence Verheijen
