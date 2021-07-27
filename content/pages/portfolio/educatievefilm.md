@@ -7,7 +7,7 @@ thumb_image_alt: Educatieve animatiefilm
 image: /images/spectacular-sunflower.jpg
 image_alt: Educatieve animatiefilm Work in progress
 seo:
-  title: Project Title 5
+  title: Educatieve film
   description: This is the project 5 description
   extra:
     - name: 'og:type'
