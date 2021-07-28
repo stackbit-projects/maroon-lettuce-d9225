@@ -1,6 +1,6 @@
 ---
 title: Voorleesweek
-subtitle: Filmproject coronaproof voorlezen
+subtitle: Filmproject coronaproof voorlezen.
 date: '2019-02-26'
 thumb_image: /images/voorleesweek2.jpg
 thumb_image_alt: Voorleesweek film
